@@ -1,5 +1,3 @@
-# Introdução PHP Web
-
 # Iniciando com o PHP Web
 Para melhor experiência com desenvolvimento Web utilizando o PHP, é de extrema importância dominar o [PHP Composer](https://getcomposer.org/), gerenciador de 
 depêndencia do PHP. 
